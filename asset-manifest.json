@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/tugas_6_react_js/static/css/main.dc012519.chunk.css",
+    "main.js": "/tugas_6_react_js/static/js/main.b1882a84.chunk.js",
+    "main.js.map": "/tugas_6_react_js/static/js/main.b1882a84.chunk.js.map",
+    "runtime-main.js": "/tugas_6_react_js/static/js/runtime-main.9ae87ce1.js",
+    "runtime-main.js.map": "/tugas_6_react_js/static/js/runtime-main.9ae87ce1.js.map",
+    "static/js/2.b0514fda.chunk.js": "/tugas_6_react_js/static/js/2.b0514fda.chunk.js",
+    "static/js/2.b0514fda.chunk.js.map": "/tugas_6_react_js/static/js/2.b0514fda.chunk.js.map",
+    "static/js/3.c0df000a.chunk.js": "/tugas_6_react_js/static/js/3.c0df000a.chunk.js",
+    "static/js/3.c0df000a.chunk.js.map": "/tugas_6_react_js/static/js/3.c0df000a.chunk.js.map",
+    "index.html": "/tugas_6_react_js/index.html",
+    "static/css/main.dc012519.chunk.css.map": "/tugas_6_react_js/static/css/main.dc012519.chunk.css.map",
+    "static/js/2.b0514fda.chunk.js.LICENSE.txt": "/tugas_6_react_js/static/js/2.b0514fda.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9ae87ce1.js",
+    "static/js/2.b0514fda.chunk.js",
+    "static/css/main.dc012519.chunk.css",
+    "static/js/main.b1882a84.chunk.js"
+  ]
+}
